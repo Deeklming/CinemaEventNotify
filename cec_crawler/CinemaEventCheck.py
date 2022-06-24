@@ -173,5 +173,5 @@ if __name__=="__main__":
         else:
             print(f"<{datetime.now().date()}> 나에게 새로운 이벤트를 달라!")
         driver.quit()
-        time.sleep(10)# 10초 마다
-        #time.sleep(3600*24-60) 하루
+        #time.sleep(10) 10초 마다
+        time.sleep(3600*24-60)# 하루 마다
