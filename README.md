@@ -1,5 +1,5 @@
 # CinemaEventCheck
-This is a CEC(CinemaEventCheck) service crawling project.
+This is a CEC(Cinema Event Check) service crawling project.
 
 ## Used Skill
 ### cec_serv_n
@@ -8,11 +8,14 @@ This is a CEC(CinemaEventCheck) service crawling project.
 
 ### cec_crawler
 - TypeScript
->   >
+```
+```
 - Python
->   >selenium
->   >ChromeDriverManager
-> tkinter
+```
+selenium
+ChromeDriverManager
+tkinter
+```
 
 #### Developer
 * Deeklming
