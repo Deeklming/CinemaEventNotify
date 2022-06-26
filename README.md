@@ -1,5 +1,5 @@
-# CinemaEventCheck
-This is a CEC(Cinema Event Check) service crawling project.
+# CinemaEventNotify
+This is a CEN(Cinema Event Notify) service crawling project.
 
 ## Blueprint
 <div><img width="560" src="https://user-images.githubusercontent.com/71743128/175808137-bd9bfece-dfca-448c-ab99-a63589415129.png"></img></div></br>
